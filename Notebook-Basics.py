@@ -136,6 +136,11 @@ print("I'm running Python!")
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC SELECT "Hi"
+
+# COMMAND ----------
+
 print("Hello Python!")
 
 # COMMAND ----------
